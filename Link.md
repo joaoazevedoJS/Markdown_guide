@@ -18,12 +18,13 @@ Para ver o texto alternativo, coloque o mouse em cima do link!
 
 ## Link em uma variavel
 
-    [url-Exemplo1]: https://linkExemplo.com
-
     [Clique aqui][url-Exemplo1]
 
-[url-Git1]: https://github.com/joaoazevedoJS
+    [url-Exemplo1]: https://linkExemplo.com
+
 [Clique aqui][url-Git1]
+
+[url-Git1]: https://github.com/joaoazevedoJS
 
 ## Link em uma variavel com texto alternativo
 
