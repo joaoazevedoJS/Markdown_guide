@@ -144,3 +144,14 @@
    1. Subitem 01
       1. . . .
    2. Subitem 02
+
+## Lista de Tarefa
+
+```
+  - [ ] Item 01
+  - [X] Item 02
+```
+
+- [ ] Item 01
+- [X] Item 02
+  
